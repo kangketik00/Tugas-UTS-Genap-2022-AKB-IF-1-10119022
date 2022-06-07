@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+nim                 : 10119022
+nama                : Muhammad Ikhlas Naufalsyah Ranau
+kelas               : IF-1
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_diary"
+            android:title="Daftar Catatan Harian" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile Mahasiswa" />
+        <item
+            android:id="@+id/nav_informasi"
+            android:title="Informasi Aplikasi" />
+    </group>
+</menu>
